@@ -11,7 +11,7 @@
 ## Why I'm Making This Application
 
 I would like to gain a deeper understanding of the algorithms that go into encryption and cryptography. I take an immense interest in 
-cybersecurity and security research outside of development and to learn implementation of cybersecurity elements with in development is 
+cybersecurity and security research outside of development and to learn implementation of cybersecurity elements within development is 
 something I'm very interested in. This for me is a stepping stone to eventually be able to develop tooling and other things that I and other people can use for security research.
 
 
