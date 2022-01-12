@@ -19,10 +19,15 @@ something I'm very interested in. This for me is a stepping stone to eventually 
 ## Task List To Start
 
 [ ] Start With HTML
+
 [ ] Style With CSS
+
 [ ] Implement Reading Data From a Form 
+
 [ ] Push That Data From One Form to a Seperate One After Being Encrypted
+
 [ ] Implement Input Form Validation and Other Securities As I Build The Application Further
+
 [ ] Have A Select Drop Down That Allows You To Change Algorithm You Want To Use
 
 
@@ -30,8 +35,11 @@ something I'm very interested in. This for me is a stepping stone to eventually 
 
 ## Algorithms To Be Added
 *Caesar Cipher* 
+
 *Vigenere Cipher* 
+
 *Railfence Cipher*  
+
 *Playfair Cipher* 
 
 ---
