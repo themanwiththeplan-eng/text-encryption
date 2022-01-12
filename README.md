@@ -4,7 +4,7 @@
 
 ## Algorithms Used
 
-**The algorithm that will be used initially for this project will be Autokey Cipher 
+**The algorithm that will be used initially for this project will be Autokey Cipher** 
 
 ---
 
@@ -29,10 +29,10 @@ something I'm very interested in. This for me is a stepping stone to eventually 
 --- 
 
 ## Algorithms To Be Added
-*Caesar Cipher 
-*Vigenere Cipher 
-*Railfence Cipher  
-*Playfair Cipher 
+*Caesar Cipher* 
+*Vigenere Cipher* 
+*Railfence Cipher*  
+*Playfair Cipher* 
 
 ---
 
@@ -42,4 +42,4 @@ There is a possibility that I will become extremely engaged and really wanting t
 
 ### Future Implementation May Include
 
-**Image Encryption 
+**Image Encryption** 
